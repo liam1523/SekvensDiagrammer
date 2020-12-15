@@ -1,0 +1,12 @@
+﻿<UserControl x:Class="WPF_sekvensdiagrammer1.Views.UserControls.CreateUser"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WPF_sekvensdiagrammer1.Views.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="39" d:DesignWidth="101">
+    <StackPanel>
+        <Button Name="ProfilePage" Content="Create" Padding="10" Command="{Binding SetPageContent}" CommandParameter="{Binding Name, RelativeSource={RelativeSource Self}}"/>
+    </StackPanel>
+</UserControl>
