@@ -1,0 +1,15 @@
+C:\Users\Liam\source\repos\WPF UserLogin\WPF UserLogin\bin\Debug\WPF UserLogin.exe.config
+C:\Users\Liam\source\repos\WPF UserLogin\WPF UserLogin\bin\Debug\WPF UserLogin.exe
+C:\Users\Liam\source\repos\WPF UserLogin\WPF UserLogin\bin\Debug\WPF UserLogin.pdb
+C:\Users\Liam\source\repos\WPF UserLogin\WPF UserLogin\obj\Debug\WPF UserLogin.csprojAssemblyReference.cache
+C:\Users\Liam\source\repos\WPF UserLogin\WPF UserLogin\obj\Debug\MainWindow.g.cs
+C:\Users\Liam\source\repos\WPF UserLogin\WPF UserLogin\obj\Debug\App.g.cs
+C:\Users\Liam\source\repos\WPF UserLogin\WPF UserLogin\obj\Debug\WPF UserLogin_MarkupCompile.cache
+C:\Users\Liam\source\repos\WPF UserLogin\WPF UserLogin\obj\Debug\WPF UserLogin_MarkupCompile.lref
+C:\Users\Liam\source\repos\WPF UserLogin\WPF UserLogin\obj\Debug\MainWindow.baml
+C:\Users\Liam\source\repos\WPF UserLogin\WPF UserLogin\obj\Debug\WPF UserLogin.g.resources
+C:\Users\Liam\source\repos\WPF UserLogin\WPF UserLogin\obj\Debug\WPF_UserLogin.Properties.Resources.resources
+C:\Users\Liam\source\repos\WPF UserLogin\WPF UserLogin\obj\Debug\WPF UserLogin.csproj.GenerateResource.cache
+C:\Users\Liam\source\repos\WPF UserLogin\WPF UserLogin\obj\Debug\WPF UserLogin.csproj.CoreCompileInputs.cache
+C:\Users\Liam\source\repos\WPF UserLogin\WPF UserLogin\obj\Debug\WPF UserLogin.exe
+C:\Users\Liam\source\repos\WPF UserLogin\WPF UserLogin\obj\Debug\WPF UserLogin.pdb
